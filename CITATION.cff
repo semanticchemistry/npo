@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: Please cite the following works when using this software.
+type: software
+authors:
+  - family-names: Thomas
+    given-names: Dennis G
+  - family-names: Pappu
+    given-names: Rohit V
+  - family-names: Baker
+    given-names: Nathan
+doi: 10.1016/J.JBI.2010.03.001
+identifiers:
+  - type: doi
+    value: 10.1016/J.JBI.2010.03.001
+  - type: other
+    value: urn:issn:1532-0464
+  - type: other
+    value: pmcid:3042056
+  - type: other
+    value: pmid:20211274
+keywords:
+  - nanotechnology
+  - ontology
+  - nanoparticle
+title: NanoParticle Ontology for cancer nanotechnology research
